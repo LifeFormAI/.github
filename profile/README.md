@@ -1,6 +1,6 @@
 # 🧬 LifeFormAI
 
-**LifeFormAI** ist ein innovatives Technologieunternehmen, spezialisiert auf die Entwicklung intelligenter, skalierbarer Systeme für Unternehmen und Behörden.  
+**LifeFormAI** ist ein innovatives Technologieunternehmen, spezialisiert auf die Entwicklung intelligenter, skalierbarer Systeme.  
 Wir kombinieren modernste **Künstliche Intelligenz**, **Automatisierung** und **Systemintegration**, um maßgeschneiderte, zukunftssichere Lösungen zu liefern.
 
 ---
