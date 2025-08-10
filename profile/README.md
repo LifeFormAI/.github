@@ -1,3 +1,4 @@
+![LifeFormAI Banner](./banner.png)
 # 🧬 LifeFormAI
 
 **LifeFormAI** ist ein innovatives Technologieunternehmen, spezialisiert auf die Entwicklung intelligenter, skalierbarer Systeme.  
