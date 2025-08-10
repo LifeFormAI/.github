@@ -1,29 +1,28 @@
 ![LifeFormAI Banner](./banner.png)
-# 🧬 LifeFormAI
+# 🧬 LifeFrameAI
 
-**LifeFormAI** ist ein innovatives Technologieunternehmen, spezialisiert auf die Entwicklung intelligenter, skalierbarer Systeme.  
-Wir kombinieren modernste **Künstliche Intelligenz**, **Automatisierung** und **Systemintegration**, um maßgeschneiderte, zukunftssichere Lösungen zu liefern.
+**LifeFrameAI** ist ein innovatives Technologieunternehmen, spezialisiert auf die Entwicklung intelligenter, skalierbarer Systeme für Unternehmen und Behörden.  
+Wir kombinieren **Künstliche Intelligenz**, **Automatisierung** und **Systemintegration**, um maßgeschneiderte, zukunftssichere Lösungen zu liefern.
 
 ---
 
 ## 🚀 Leistungen & Schwerpunkte
 - **AI-Entwicklung** – Sprachmodelle, kontextbasierte Assistenten, Machine Learning.
-- **Automatisierung** – Optimierung und Automatisierung komplexer Geschäftsprozesse.
+- **Automatisierung** – Ende-zu-Ende-Automation komplexer Geschäftsprozesse.
 - **Systemintegration** – Vernetzung bestehender Systeme und Plattformen.
-- **Sicherheitslösungen** – Datenschutz-konforme Architekturen für sensible Daten.
+- **Sicherheitslösungen** – Datenschutzkonforme Architekturen für sensible Daten.
 
 ---
 
 ## 🌟 Vision
-Technologie schaffen, die **versteht**, **entscheidet** und **unterstützt** –  
-nicht nur reagiert.  
-LifeFormAI steht für **maßgeschneiderte, intelligente Lösungen**, die nachhaltig Mehrwert schaffen.
+Technologie schaffen, die **versteht**, **entscheidet** und **unterstützt** – nicht nur reagiert.  
+LifeFrameAI steht für **maßgeschneiderte, intelligente Lösungen**, die nachhaltig Mehrwert schaffen.
 
 ---
 
 ## 📂 Projektportfolio (Auszug)
 - **ALISE** – Modularer AI-Agent für Sprache, Logik und Automatisierung.
-- **LifeForm Core** – Interne Plattform für zentralisierte AI- und Systemlogik.
+- **LifeFrame Core** – Interne Plattform für zentralisierte AI- und Systemlogik.
 - **NeuroFlow** – Verarbeitungspipeline für kontextbezogene Antworten in Echtzeit.
 
 ---
@@ -39,10 +38,10 @@ LifeFormAI steht für **maßgeschneiderte, intelligente Lösungen**, die nachhal
 ---
 
 ## 📫 Kontakt
-[![Email](https://img.shields.io/badge/Email-contact%40lifeformai.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lifeformai.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LifeFormAI-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lifeformai)  
-[![Website](https://img.shields.io/badge/Website-lifeformai.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lifeformai.com)
+[![Email](https://img.shields.io/badge/Email-contact%40lifeframeai.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lifeframeai.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LifeFrameAI-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/lifeframeai)  
+[![Website](https://img.shields.io/badge/Website-lifeframeai.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lifeframeai.com)
 
 ---
 
-> © 2025 LifeFormAI – All rights reserved.
+> © 2025 LifeFrameAI – All rights reserved.
